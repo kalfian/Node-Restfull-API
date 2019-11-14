@@ -1,0 +1,26 @@
+{
+  "name": "express-restapi",
+  "version": "1.0.0",
+  "description": "Express JS Restfull API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalfian/Node-Restfull-API.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "ExpressJS",
+    "MongoDB",
+    "Restfull",
+    "API"
+  ],
+  "author": "Kalfian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalfian/Node-Restfull-API/issues"
+  },
+  "homepage": "https://github.com/kalfian/Node-Restfull-API#readme"
+}
